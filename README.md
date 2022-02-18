@@ -1,4 +1,4 @@
 # Java Practice
-A compilation of mini Java Projects to help me learn the basics
+A compilation of mini Java Projects from basic to intermediate
 ## Projects
 - Mortgage Calculator
