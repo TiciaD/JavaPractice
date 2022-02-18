@@ -1,3 +1,12 @@
+## Overview
+#### Program made using Java basics including
+- Variables and Constants
+- Primitive and Reference Types
+- Casting
+- Numbers and Strings
+- Reading Input
+
+ No input validation is handled yet
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
