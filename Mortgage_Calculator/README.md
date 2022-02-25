@@ -5,8 +5,10 @@
 - Casting
 - Numbers and Strings
 - Reading Input
-
- No input validation is handled yet
+- Comparison and Logical Operators
+- Conditional Statements
+- Loops
+- Data Validation
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
