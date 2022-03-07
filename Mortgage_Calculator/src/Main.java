@@ -18,6 +18,7 @@ public class Main {
       printPaymentSchedule(principal, annualInterest, years);
     }
 
+    // function to read user input and validate if it's within a range
     public static double readNumber(String prompt, double min, double max) {
       // initialize scanner to take user input
       Scanner scanner = new Scanner(System.in);
@@ -61,6 +62,7 @@ public class Main {
       return mortgage;
     }
 
+    // run mortgage calculation and output to screen with styling
     private static void printMortgage(int principal, float annualInterest, byte years) {
       // calculate mortgage based on user inputs
       double mortgage = calculateMortgage(principal, annualInterest, years);
@@ -75,6 +77,7 @@ public class Main {
       System.out.println("Monthly Payment: " + formattedMortgage);
     }
 
+    // run balance calculation and output to screen with styling
     private static void printPaymentSchedule(int principal, float annualInterest, byte years) {
       System.out.println();
       System.out.println("PAYMENT SCHEDULE");
